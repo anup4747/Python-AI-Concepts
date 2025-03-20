@@ -1,4 +1,3 @@
-# Python-AI-Concetps
 
 # Python AI Concepts
 
