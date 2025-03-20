@@ -34,7 +34,7 @@ Jupyter Notebook or JupyterLab
 
 ```bash
 # Clone the repository
-git clone https://github.com/anup4747/Python-AI-Concetps.git
+git clone https://github.com/anup4747/Python-AI-Concepts.git
 
 # Navigate to the project directory
 cd Python-AI-Concepts
