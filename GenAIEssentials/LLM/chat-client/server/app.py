@@ -6,7 +6,8 @@ import numpy as np
 app = Flask(__name__)
 CORS(app)  # Enable CORS
 
-model = Word2Vec.load("your_model.model")
+model = Word2Vec.load("word2vec.model")
+print("   model loaded")
 
 @app.route("/chat", methods=["POST"])
 def chat():
